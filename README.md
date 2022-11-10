@@ -1,8 +1,6 @@
-# Shaadi Karo
+# Template
 
-Shaadi Karo App is an Android native app developed in Kotlin.
-
-It will be showing the suggestions for matching personal profiles in a list which can be accepted/declined according to the users wish.
+The app will be showing the suggestions for matching personal profiles in a list which can be accepted/declined according to the users wish.
 
 ## Features
 
